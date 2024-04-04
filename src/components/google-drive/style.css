@@ -1,0 +1,15 @@
+.searchInputDiv {
+    border: 1px solid #8c8c8c;
+    border-radius: 4px;
+    padding: 0 5px
+}
+
+.searchInput {
+    min-width: 270px;
+    height: 34px;
+    border: none;
+    margin: 0 0 0 -5px
+}
+.searchInput:focus{
+    outline: none;
+}
